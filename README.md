@@ -14,6 +14,7 @@ http://monsite/myAdmin/index.php?A&Report\StatsSuppliers
 
 Activate the module in Report
 
+See Marketplace for all informations
 Marketplace link : https://www.clicshopping.org/forum/files/file/27-apps_report_stats_suppliers/
 
 
