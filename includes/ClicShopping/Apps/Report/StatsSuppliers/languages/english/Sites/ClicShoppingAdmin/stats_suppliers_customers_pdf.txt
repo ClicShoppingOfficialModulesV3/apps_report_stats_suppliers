@@ -1,0 +1,31 @@
+ print_invoice_heading = Supplier report
+ print_suppliers = Supplier
+
+ entry_email = E-mail :
+ entry_manager = Manager :
+ entry_phone = Telephone :
+ entry_fax = Fax :
+ entry_ship_to = Address :
+ entry_supplier_information = Supplier informations :
+ entry_suppliers_number = Supplier model :
+
+ start_analyse = Start analyse :
+ end_analyse = End analyse :
+
+ entry_status = Order Status treated
+
+ table_heading_qte = Qty
+ table_heading_products_model = Model
+ table_heading_products = Product
+ table_heading_options = Option
+ table_heading_value = Value
+ table_heading_customers_id = Id client
+ table_heading_customers_name = Customer name
+
+ entry_http_site = Internet site :
+
+thank_you_customer =
+reserve_propriete =
+reserve_propriete_next =
+reserve_propriete_next1 =
+reserve_propriete_next2 =

@@ -1,0 +1,78 @@
+heading_title = Stats Suppliers
+module_ss_title = Stats Suppliers
+module_ss_short_title = Stats Suppliers
+
+text_stats_suppliers = Stats Suppliers
+text_configure =  configure App Module
+
+text_intro = This app allow you to include a products viewed. <br /><br />
+- Click on Configure to access / install or uninstall the app.<br />
+- The App is located in Report<br />
+
+module_ss_introduction = The install process create the database settings for this module and the access menu
+
+button_back = Back
+button_install_title = Install
+button_configure = Configure
+button_save = Save
+button_dialog_uninstall =  Uninstall
+button_uninstall =  Uninstall
+button_delete = Delete
+button_cancel = Cancel
+button_stats_suppliers = Stats Suppliers
+button_reset = Reset
+button_update = Update
+
+dialog_uninstall_title = Uninstall
+dialog_uninstall_body = Do you want to install this App ?
+dialog_uninstall_title = Uninstall Module?
+dialog_uninstall_body = Are you sure you want to uninstall this module?
+
+alert_module_install_success = Module has been successfully installed.
+alert_module_uninstall_success = Module has been successfully uninstalled.
+alert_cfg_saved_success = Configuration parameters have been successfully saved.
+
+text_result_page = Page {{listing_from}} of {{listing_total}}
+text_display_number_of_link = Display <strong>{{listing_from}}</strong> to <strong>{{listing_to}}</strong> (on <strong>{{listing_total}}</strong>)
+
+entry_heading_title = Orders suppliers
+
+table_heading_suppliers_id = Id Supplers
+table_heading_suppliers = Supplier
+table_heading_manager = Manager
+table_heading_email = email
+table_heading_phone = Telephone
+table_heading_order = Orders Number
+table_heading_action = Actions
+table_heading_cutomers_name = Customers
+
+heading_title_products_by_suppliers = Order detail
+table_heading_model = Product model
+table_heading_suppliers_name = Supplier name
+table_heading_products_name = Product name
+table_heading_products_options = Product option
+table_heading_products_options_values = Option value
+table_heading_quantity = Quantity
+
+entry_status = order Status
+
+heading_title_products_by_customers = Client detail for a supplier
+
+table_heading_customers_id = Id Customer
+table_heading_customers_mane = Customer name
+
+period = Period
+icon_stats_suppliers_edit_customers = See the client orders
+image_stats_suppliers_pdf = Edit the pdf report
+image_stats_suppliers_edit = See the orders for this suppliers
+
+icon_edit_orders = See all client orders
+icon_edit_products = More informations for this product
+
+table_heading_products = products
+
+text_all_orders = Tous les status
+entry_start_date = Start Analyse
+entry_to_date = End Analyse
+entry_submit = Go
+button_print = print

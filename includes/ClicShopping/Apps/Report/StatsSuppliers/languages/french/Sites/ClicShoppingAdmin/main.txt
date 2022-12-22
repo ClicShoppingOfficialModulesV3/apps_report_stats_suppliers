@@ -1,0 +1,79 @@
+heading_title = Stats fournisseurs
+module_ss_title = Stats fournisseurs
+module_ss_short_title = Stats fournisseurs
+
+text_stats_suppliers = Stats fournisseurs
+text_configure =  Configurer App Module
+
+text_intro = Cette app vous permet d'accéder à un rapport sur les produits Vus <br /><br />
+- Cliquez sur configurer pour accéder à l'installation ou la désinstallation l'app.<br />
+- Cette app est dans le menu Rapports / Produits<br />
+
+module_ss_introduction = Le processus d'installation crée la base de données et le menu pour ce module
+
+button_install_title = Installer
+button_configure = Configurer
+button_save = Sauver
+button_dialog_uninstall =  Désinstaller
+button_uninstall =  Désinstaller
+button_delete = Supprimer
+button_cancel = Annuler
+button_stats_suppliers = Stats fournisseurs
+button_reset = Reset
+button_update = Valider
+
+dialog_uninstall_title = Désinstaller
+dialog_uninstall_body = Souhaitez-vous installer cette App ?
+dialog_uninstall_title = Désinstaller le module?
+dialog_uninstall_body = Etes vous sur de désinstaller ce module?
+
+alert_module_install_success = Le module a été installée.
+alert_module_uninstall_success = Le module a été désinstallée.
+alert_cfg_saved_success = les paramètres de configuration ont été mises à jour.
+
+text_result_page = Page {{listing_from}} sur {{listing_total}}
+text_display_number_of_link = Affiche <strong>{{listing_from}}</strong> à <strong>{{listing_to}}</strong> (sur <strong>{{listing_total}}</strong>)
+
+entry_heading_title = Récapitulatif des commandes fournisseurs
+
+table_heading_suppliers_id = Id fournisseur
+table_heading_suppliers = Fournisseur
+table_heading_manager = Responsable
+table_heading_email = email
+table_heading_phone = Téléphone
+table_heading_order = Nombre de commandes
+table_heading_action = Actions
+table_heading_cutomers_name = Clients
+
+heading_title_products_by_suppliers = Détail de la commande
+table_heading_model = Modèle du produit
+table_heading_suppliers_name = Nom fournisseur
+table_heading_products_name = Nom produit
+table_heading_products_options = Option du produit
+table_heading_products_options_values = Valeur Option
+table_heading_quantity = Quantité
+
+entry_status =  Statut de la commande traitée
+
+
+heading_title_products_by_customers = Détails clients pour un fournisseurs
+
+heading_title_products_by_customers = Détail client pour un fournisseur
+
+
+period = période du
+icon_stats_suppliers_edit_customers = Voir les commandes par client
+image_stats_suppliers_pdf = Editer le rapport PDF
+image_stats_suppliers_edit = Editer les commandes concernant ce fournisseur
+
+icon_edit_orders = Voir toutes les commandes du client
+icon_edit_products = Plus d'informations sur ce produit
+
+table_heading_products = Produits
+
+text_all_orders = Tous les status
+entry_start_date = Date début analyse
+entry_to_date = Date fin analyse
+entry_submit = Go
+
+button_print = Imprimer

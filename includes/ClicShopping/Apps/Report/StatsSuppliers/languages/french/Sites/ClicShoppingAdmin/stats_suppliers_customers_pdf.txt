@@ -1,0 +1,31 @@
+print_invoice_heading = Rapport Fournisseur
+print_suppliers_title = Analyse commandes fournisseur
+print_suppliers = Fournisseur
+
+entry_email = E-mail :
+entry_manager = Responsable :
+entry_phone = Téléphone :
+entry_fax = Fax :
+entry_ship_to = Adresse :
+entry_supplier_information = Informations fournisseur :
+entry_suppliers_number = Référence fournisseur :
+
+start_analyse = Date début Analyse :
+end_analyse = Date fin Analyse :
+
+entry_status = Statut de la commande traitée
+
+table_heading_qte = Qté
+table_heading_products_model = Référence
+table_heading_products = Produit
+table_heading_options = Option
+table_heading_value = Valeur
+table_heading_customers_id = Id client
+table_heading_customers_name = Nom Client
+
+entry_http_site = Site Internet :
+thank_you_customer =
+reserve_propriete =
+reserve_propriete_next =
+reserve_propriete_next1 =
+reserve_propriete_next2 =
